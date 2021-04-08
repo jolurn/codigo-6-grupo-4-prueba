@@ -1,6 +1,6 @@
 # Bienvenidos amiguitos del grupo 4
 
-##Integrantes:
+## Integrantes:
 
 -Jorge Luis Ramos Nolasco
 -Jorge Arevalo flores
